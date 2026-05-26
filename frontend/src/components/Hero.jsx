@@ -35,7 +35,7 @@ function Hero() {
 
       <div className="flex gap-5">
         <a
-          href="Yash_Parashar_Resume.pdf"
+          href="Yash_Parashar_CV.pdf"
           download
           className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-lg font-semibold transition"
         >
