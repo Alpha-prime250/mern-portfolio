@@ -3,7 +3,7 @@ import {
   FaLinkedin,
   FaInstagram
 } from 'react-icons/fa'
-import profile from "../assets/Profile.jpeg";
+import profile from "../assets/Profile1.jpeg";
 
 
 function Hero() {
@@ -23,11 +23,11 @@ function Hero() {
       </h1>
 
       <p className="text-2xl text-gray-300 mb-6">
-        MERN Stack Developer
+        Full Stack Developer
       </p>
 
       <p className="max-w-3xl text-gray-400 leading-8 mb-8">
-        Aspiring MERN Stack Developer with strong knowledge of JavaScript,
+        Aspiring Full Stack Developer with strong knowledge of JavaScript,
         React.js, Node.js, Express.js, and MongoDB. Passionate about building
         scalable and modern web applications with clean UI and efficient backend
         architecture.
@@ -35,7 +35,7 @@ function Hero() {
 
       <div className="flex gap-5">
         <a
-          href="/resume.pdf"
+          href="Yash_Parashar_Resume.pdf"
           download
           className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-lg font-semibold transition"
         >

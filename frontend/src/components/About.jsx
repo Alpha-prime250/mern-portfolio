@@ -4,7 +4,7 @@ function About() {
       <h2 className="text-4xl font-bold mb-5">About Me</h2>
 
       <p className="text-gray-300 leading-8">
-        I am a MERN Stack Developer passionate about building modern web applications.
+        I am a Full Stack Developer passionate about building modern web applications.
       </p>
     </section>
   )
